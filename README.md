@@ -1,68 +1,76 @@
+<!-- Header Typing Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,8A2BE2,000000&height=250&section=header&text=Nethmi%20Vihanga&fontSize=60&fontColor=ffffff&desc=BIT%20(Hons)%20Undergraduate%20|%20Network%20%26%20Mobile%20Computing&descSize=20&descAlignY=65" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=45&pause=1000&color=9B59B6&center=true&vCenter=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Nethmi+Vihanga;BIT+(Hons)+Undergraduate;Network+%26+Mobile+Computing;Horizon+Campus%2C+Sri+Lanka" alt="Typing SVG" />
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- About -->
+## 🧑‍💻 About Me
+
+```yaml
+Name     : Nethmi Vihanga Gajaweera
+Degree   : BIT (Hons) — Network & Mobile Computing
+Institute: Horizon Campus, Sri Lanka
+Status   : Currently Studying | Open to Internships
+Passions : Networking · AI Systems · Real-World Problem Solving
+Contact  : taenethmi1230@gmail.com
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Skills -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,html,css" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,androidstudio,vscode" />
+
+**Cloud & Networking**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,bash,windows" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NethmiVihanga&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiVihanga&theme=midnight-purple&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiVihanga&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" width="49%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Connect -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://nethmivihanga.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmi-vihanga-507707254)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taenethmi1230@gmail.com)
+
 </div>
 
 <br>
 
 <div align="center">
-  <em>A motivated undergraduate passionate about building smart, impactful applications that solve real-world problems.</em>
-</div>
-<br>
-
-<div align="center">
-  <a href="https://nethmivihanga.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-8A2BE2?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nethmi-vihanga-507707254" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=NethmiVihanga&color=8B5CF6&style=flat-square&label=Profile+Views" />
 </div>
 
-<br><br>
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="left" width="50%" style="border: none;">
-      <h3 align="center">🎓 Education & Status</h3>
-      <br>
-      <ul>
-        <li>🎓 <b>Degree:</b> BIT (Hons) in Network and Mobile Computing, Horizon Campus</li>
-        <li>🌱 <b>Status:</b> Currently Studying · Open to Internships</li>
-        <li>🚀 <b>Passions:</b> Networking solutions, AI-powered systems</li>
-        <li>📫 <b>Contact:</b> <a href="mailto:taenethmi1230@gmail.com">taenethmi1230@gmail.com</a></li>
-      </ul>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <h3>🛠️ Tech Stack & Skills</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,docker,linux,windows,bash" alt="Top Skills" />
-      </a>
-      <br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,git,github" alt="Cloud & DevOps" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<h2 align="center">📈 Real-Time GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NethmiVihanga&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiVihanga&theme=react&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiVihanga&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NethmiVihanga&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
