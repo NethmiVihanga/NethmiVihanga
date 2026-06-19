@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About -->
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 Name     : Nethmi Vihanga Gajaweera
@@ -21,7 +21,7 @@ Contact  : taenethmi1230@gmail.com
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Skills -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Contact  : taenethmi1230@gmail.com
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NethmiVihanga&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%" />
@@ -56,7 +56,7 @@ Contact  : taenethmi1230@gmail.com
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Connect -->
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
