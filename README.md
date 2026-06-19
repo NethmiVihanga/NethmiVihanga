@@ -1,20 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=300&section=header&text=Hello%20World,%20I'm%20Nethmi!&fontSize=70&fontAlignY=38&desc=IT%20Technician%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=300&section=header&text=Hello%20World,%20I'm%20Nethmi!&fontSize=70&fontAlignY=38&desc=BIT%20Undergraduate%20%7C%20Network%20%26%20Mobile%20Computing&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <h1 align="center">⚡ Welcome to my Tech Hub ⚡</h1>
 
 <p align="center">
-  <em>An enthusiastic <b>IT Technician</b> passionate about systems, networks, and solving complex technological problems.</em>
+  <em>A motivated <b>BIT (Hons) Undergraduate</b> passionate about building smart, impactful applications that solve real-world problems — from networking solutions to AI-powered systems.</em>
+</p>
+
+<p align="center">
+  <a href="https://nethmivihanga.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=00ff00" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 ### 💻 About Me
-- 🔧 **Current Focus:** Hardware troubleshooting, Network administration, and System infrastructure.
-- 🚀 **Learning:** Cloud Computing and advanced Cybersecurity practices.
-- 💬 **Ask me about:** OS deployment, hardware diagnostics, and network configuration.
-- 📫 **How to reach me:** [Add Your Email/LinkedIn Here]
+- 🎓 **Education:** BIT (Hons) in Network and Mobile Computing undergraduate at Horizon Campus, Sri Lanka.
+- 🌱 **Status:** Currently Studying · Open to Internships.
+- 🚀 **Passionate About:** Networking solutions, AI-powered systems, and solving complex real-world problems.
+- 📫 **How to reach me:** [taenethmi1230@gmail.com](mailto:taenethmi1230@gmail.com)
+- 🔗 **LinkedIn:** [nethmi-vihanga-507707254](https://www.linkedin.com/in/nethmi-vihanga-507707254)
 
 ---
 
@@ -22,12 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,debian,redhat" alt="OS" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,python,c,cpp,docker" alt="Languages & Tools" />
+    <img src="https://skillicons.dev/icons?i=python,java,docker,linux,windows,bash" alt="Top Skills" />
   </a>
 </p>
 <p align="center">
