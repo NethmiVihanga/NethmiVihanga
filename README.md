@@ -1,48 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=300&section=header&text=Hello%20World,%20I'm%20Nethmi!&fontSize=70&fontAlignY=38&desc=BIT%20Undergraduate%20%7C%20Network%20%26%20Mobile%20Computing&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://raw.githubusercontent.com/NethmiVihanga/NethmiVihanga/main/banner.gif" onerror="this.src='https://media.giphy.com/media/qgQUggCGvnPfa/giphy.gif'" width="100%" style="border-radius: 15px;" alt="cyber banner" />
 </div>
 
-<h1 align="center">⚡ Welcome to my Tech Hub ⚡</h1>
-
-<p align="center">
-  <em>A motivated <b>BIT (Hons) Undergraduate</b> passionate about building smart, impactful applications that solve real-world problems — from networking solutions to AI-powered systems.</em>
-</p>
-
-<p align="center">
-  <a href="https://nethmivihanga.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=00ff00" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00E676&center=true&vCenter=true&width=800&height=100&lines=Hello+World,+I'm+Nethmi!;BIT+Undergraduate;Network+%26+Mobile+Computing;AI+%26+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
-### 💻 About Me
-- 🎓 **Education:** BIT (Hons) in Network and Mobile Computing undergraduate at Horizon Campus, Sri Lanka.
-- 🌱 **Status:** Currently Studying · Open to Internships.
-- 🚀 **Passionate About:** Networking solutions, AI-powered systems, and solving complex real-world problems.
-- 📫 **How to reach me:** [taenethmi1230@gmail.com](mailto:taenethmi1230@gmail.com)
-- 🔗 **LinkedIn:** [nethmi-vihanga-507707254](https://www.linkedin.com/in/nethmi-vihanga-507707254)
+<table align="center" style="border: none;">
+  <tr>
+    <td align="left" width="50%" style="border: none;">
+      <h2 align="center">💻 About Me</h2>
+      <ul>
+        <li>🎓 <b>Education:</b> BIT (Hons) in Network and Mobile Computing, Horizon Campus, Sri Lanka</li>
+        <li>🌱 <b>Status:</b> Currently Studying · Open to Internships</li>
+        <li>🚀 <b>Passions:</b> Networking solutions, AI-powered systems, solving real-world problems</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:taenethmi1230@gmail.com">taenethmi1230@gmail.com</a></li>
+        <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nethmi-vihanga-507707254">Connect with me</a></li>
+      </ul>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <h2>🛠️ Tech Stack</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,docker,linux,windows,bash" alt="Top Skills" />
+      </a>
+      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,git,github" alt="Cloud & DevOps" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,docker,linux,windows,bash" alt="Top Skills" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,git,github" alt="Cloud & DevOps" />
-  </a>
-</p>
-
----
-
-### 📊 My Activity & Stats
 
 <div align="center">
+  <h2>📈 My GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=NethmiVihanga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiVihanga&theme=tokyonight&hide_border=true" width="48%" />
 </div>
@@ -50,15 +44,19 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiVihanga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiVihanga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NethmiVihanga&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://nethmivihanga.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=Web&logoColor=00ff00" alt="Portfolio" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <i>"There are no problems, only solutions waiting to be found."</i>
+  <img src="https://komarev.com/ghpvc/?username=NethmiVihanga&color=00E676&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
